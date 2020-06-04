@@ -1,0 +1,10 @@
+/* Dit is jouw stylesheet */
+
+/* Hier in kan je jouw website stylen zoals een achter grond kleur geven dit doe je als volgt */
+
+/* Je roept het gene aan wat je wilt stylen dus in dit geval de body */
+
+body {
+  background-color: purple;
+  /* vergeet nooit je regel af te sluiten met een punt comma ; */
+}
